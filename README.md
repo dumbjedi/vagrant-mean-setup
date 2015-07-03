@@ -18,3 +18,5 @@ A Basic project for setting up mean in a vagrant box
 
 #### Details
 
+* Application Server IP = 192.168.33.50
+* MongoDb Server IP = 192.168.33.60
